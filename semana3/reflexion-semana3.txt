@@ -1,0 +1,8 @@
+Git es esencial en proyectos de software porque proporciona trazabilidad completa: cada cambio queda documentado con autor, fecha, hora y justificación (mensaje del commit), lo que permite auditar exactamente quién modificó qué y cuándo.
+Esta capacidad es crítica en equipos colaborativos donde múltiples desarrolladores trabajan simultáneamente sobre el mismo código; sin Git, los cambios se sobrescribirían caóticamente.
+Además, Git permite revertir a versiones anteriores si un cambio introduce errores, evitando que un bug pueda destruir semanas de trabajo.
+La capacidad de crear ramas (branches) facilita el desarrollo paralelo: distintos desarrolladores pueden trabajar en features diferentes sin interferencia.
+Para proyectos profesionales y especialmente para cumplir normas de compliance y auditoría (crítico en contextos financieros, de salud o legales como tu área), mantener un registro inmutable de cambios no es una opción sino una obligación legal.
+Git también genera transparencia: cualquier desarrollador puede revisar el historial completo del proyecto, entender decisiones de diseño pasadas y contribuir de forma informada.
+Sin herramientas como Git, los proyectos caen rápidamente en desorden, pérdida de control y vulnerabilidad a errores irrecuperables.
+Pienso que si no tuviéramos la posibilidad de guardar cambios no podríamos garantizar la continuidad de un proyecto, me recuerda a lo que pasó con Toy Story 2, la cuál casi se pierde por no tener respaldo.

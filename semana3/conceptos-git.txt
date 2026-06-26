@@ -1,0 +1,10 @@
+Repositorio: espacio donde se guardan los archivos y cambios de un proyecto, es una carpeta especial que Git monitorea constantemente. Dentro del repositorio existe una carpeta oculta llamada .git que contiene toda la historia de versiones, commits anteriores, ramas y metadatos del proyecto.
+Sin un repositorio, Git no puede funcionar; es el contenedor donde vive tu proyecto y su historial completo.
+
+Commit: registro de cambios realizado en un momento específico, cada commit es como una "fotografía" del estado de tu proyecto en un punto exacto en el tiempo, con un mensaje que explica qué cambió y por qué. 
+Los commits son inmutables: una vez guardados, no desaparecen. Incluyen información del autor, la fecha, la hora y una descripción clara. 
+La cadena de commits forma la historia del proyecto, permitiendo regresar a versiones anteriores o entender cómo evolucionó el código.
+
+Push: acción de enviar los cambios desde el computador o Codespaces hacia GitHub. 
+Push sincroniza los commits que hiciste localmente con el repositorio remoto, haciendo que tus cambios sean visibles para el equipo. 
+Sin push, tus commits solo existen en tu máquina; con push, se almacenan permanentemente en GitHub y otros desarrolladores pueden acceder, revisar y construir sobre tu trabajo.
