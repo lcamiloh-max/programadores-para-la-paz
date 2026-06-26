@@ -1,0 +1,10 @@
+Respuesta   Pregunta 9.  Reflexión de la semana:
+
+Saber usar la terminal para navegar y organizar archivos dentro de un proyecto es fundamental
+porque determina la capacidad del desarrollador de entender y controlar la estructura que Git versionará.
+La terminal permite ver exactamente dónde están los archivos, crear carpetas lógicas (src/, config/, tests/), mover archivos entre directorios, y eliminar lo innecesario, acciones que desde una interfaz gráfica parecen triviales pero que en terminal revelan la lógica real del proyecto
+Cuando trabajas en equipo con Git, necesitas saber dónde está cada archivo para hacer commits precisos, escribir gitignore correctamente, y evitar versionar carpetas innecesarias. 
+La terminal fuerza claridad: no puedes organizar mal lo que no ves claramente escrito. 
+Además, comandos como ls, cd, mkdir, etc, son portables entre máquinas y sistemas, a diferencia de interfaces gráficas que varían. 
+Sin dominio de la terminal para esto, quedarás dependiente de clics, sin entender realmente la estructura de tu propio proyecto y sin capacidad de automatizar flujos de trabajo.
+es por eso que el uso de la terminal es importante, puesto que nosotros estamos acostumbrados a lo práctico; a presionar botones pero la terminal nos ayuda a comprender cómo funcionan los sistemas realmente.
