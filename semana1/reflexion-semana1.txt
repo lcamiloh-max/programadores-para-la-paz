@@ -1,0 +1,9 @@
+El uso responsable de información en internet es fundamento para una participación ciudadana auténtica: 
+sin verificación, transparencia y contextualización, la participación se vuelve reactiva e ignorante, aquí emerge Git como herramienta política, no solo técnica, 
+Git encarna principios democráticos mediante la trazabilidad total (cada cambio tiene autor y justificación), la descentralización del poder (nadie controla monopólicamente), y la revisión por pares antes de decisiones vinculantes,
+su lógica donde el disenso queda documentado y la historia es inalterable refleja exactamente lo que debería funcionar en una gobernanza responsable.
+
+En la práctica, gobiernos y organizaciones civiles ya usan Git para publicar normas en repositorios abiertos, 
+permitiendo contribuciones ciudadanas auditables,  para mí, como estudiante de derecho, Git trasciende la programación: 
+es un modelo de gestión transparente y responsable aplicable a documentación legal, procesos de compliance y auditoría de cambios regulatorios, la conexión es directa:
+ información responsable + participación organizada + herramientas que garanticen transparencia = legitimidad democrática.
